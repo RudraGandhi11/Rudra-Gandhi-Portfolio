@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://rudragandhi11.github.io/Rudra-Gandhi-Portfolio/'",
+    "build-gh": "parcel build --public-url 'https://github.com/RudraGandhi11/Rudra-Gandhi-Portfolio'",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
